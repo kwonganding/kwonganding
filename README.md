@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 <table width="100%">
-<tr>
-<td valign="middle" width="350px" height="220px">
+<tr style="border: none;">
+<td valign="top" width="350px" height="220px" border="0" style="border: none;">
   
 - [语雀「 安木夕」](https://www.yuque.com/kanding)
 - [Github「 Kanding」](https://github.com/kwonganding) 
@@ -12,7 +12,7 @@
 - [ProcessOn](https://www.processon.com/u/5282d8610cf23a22eea07032/profile) &#124; [知乎](https://www.zhihu.com/people/kanding) &#124; [CodePen](https://codepen.io/kanding)
 </td>
   
-<td valign="middle" width="450px" height="220px">
+<td valign="top" width="450px" height="220px">
   
 [![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=kwonganding)]()
 
