@@ -1,4 +1,4 @@
-### 个人主页 👋
+### 技术分享主页 👋
 [![img](https://img.shields.io/badge/Github-Kanding-a8f)](https://github.com/kwonganding)&nbsp;
 [![img](https://img.shields.io/badge/语雀-安木夕-8f6)](https://www.yuque.com/kanding) &nbsp;
 [![img](https://img.shields.io/badge/掘金-安木夕-28f)](https://juejin.cn/user/2120322602780935) &nbsp;
